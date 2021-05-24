@@ -15,6 +15,7 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("pull test");
+        //迁移git-hub上的代码至gitee测试
     }
 
 }
